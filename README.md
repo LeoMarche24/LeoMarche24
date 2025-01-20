@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoMarche24
-- 📊 I’m interested in mathematics, politics and more
-- 🎓 I’m currently studing mathematical engineering - statistical learning
+- 📊 Statistical learning and mathematics
+- 🎓 I’m currently a PhD candidate in Data analytics and decision sciences at PoliMi
 
 <!---
 LeoMarche24/LeoMarche24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
